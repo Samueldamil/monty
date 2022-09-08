@@ -1,2 +1,2 @@
 
-Monty orogramming language
+Monty programming language
